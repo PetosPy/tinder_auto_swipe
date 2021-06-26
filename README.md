@@ -8,4 +8,6 @@ steps.
 * Selenium
 * Time
 
+## Screenshot
+![tinder](https://user-images.githubusercontent.com/64991182/123525233-88eb4500-d6a5-11eb-9de9-f784a04680ef.jpeg)
 
